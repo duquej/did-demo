@@ -18,9 +18,9 @@
     }
   ],
   "authentication": [
-    "did:web:duquej.github.io:did-demo"
+    "did:web:duquej.github.io:did-demo#owner"
   ],
   "assertionMethod": [
-    "did:web:duquej.github.io:did-demo"
+    "did:web:duquej.github.io:did-demo#owner"
   ]
 }
